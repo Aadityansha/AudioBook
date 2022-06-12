@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Use you PDF as a audiobook 🎧.
+### Use your PDF as a audiobook 🎧.
 
 ## Use on your system
 
